@@ -1,0 +1,13 @@
+.books-container {
+  display: flex;
+  flex-direction: column;
+  width: 80vw;
+}
+
+.books {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 4rem;
+}
